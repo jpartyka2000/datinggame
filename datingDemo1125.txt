@@ -1,0 +1,1261 @@
+Victor OOD value for Audrey is: 93
+Victor OOD value for Sun is: 68
+Victor OOD value for Jameka is: 71
+Audrey OOD value for Victor is: 101
+Audrey OOD value for George is: 133
+Sun OOD value for Victor is: 74
+Sun OOD value for George is: 72
+Jameka OOD value for Victor is: 117
+Jameka OOD value for George is: 122
+George OOD value for Audrey is: 119
+George OOD value for Sun is: 80
+George OOD value for Jameka is: 60
+
+Master profile for: Victor
+*********************************
+
+Gender: 0
+Personality Points: 386
+Humor: 50
+Seriousness: 96
+Professionalism: 85
+Romantic/Escapist: 96
+Selfish: 89
+Selfless: 58
+*********************************
+Physical Attractiveness: 52
+Mental Attractiveness: 97
+Social Attractiveness: 67
+*********************************
+Overall Popularity: 52
+Current Job: Video Game Programmer
+Is Currently Dating: Jameka
+*********************************
+Social Bond Strength 0 is: 0
+Social Bond Strength 1 is: 49
+Social Bond Strength 2 is: 42
+Social Bond Strength 3 is: 55
+Social Bond Strength 4 is: 62
+*********************************
+Object of Desire is: 1
+OOD value is: 93
+
+
+Master profile for: Audrey
+*********************************
+
+Gender: 1
+Personality Points: 445
+Humor: 78
+Seriousness: 69
+Professionalism: 76
+Romantic/Escapist: 86
+Selfish: 60
+Selfless: 85
+*********************************
+Physical Attractiveness: 87
+Mental Attractiveness: 97
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 64
+Current Job: Phone Operator
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 49
+Social Bond Strength 1 is: 0
+Social Bond Strength 2 is: 78
+Social Bond Strength 3 is: 65
+Social Bond Strength 4 is: 65
+*********************************
+Object of Desire is: 4
+OOD value is: 133
+
+
+Master profile for: Sun
+*********************************
+
+Gender: 1
+Personality Points: 378
+Humor: 69
+Seriousness: 63
+Professionalism: 61
+Romantic/Escapist: 64
+Selfish: 51
+Selfless: 71
+*********************************
+Physical Attractiveness: 95
+Mental Attractiveness: 95
+Social Attractiveness: 85
+*********************************
+Overall Popularity: 56
+Current Job: Computer Programmer
+Is Currently Dating: George
+*********************************
+Social Bond Strength 0 is: 42
+Social Bond Strength 1 is: 78
+Social Bond Strength 2 is: 0
+Social Bond Strength 3 is: 53
+Social Bond Strength 4 is: 54
+*********************************
+Object of Desire is: 0
+OOD value is: 74
+
+
+Master profile for: Jameka
+*********************************
+
+Gender: 1
+Personality Points: 407
+Humor: 91
+Seriousness: 77
+Professionalism: 50
+Romantic/Escapist: 92
+Selfish: 67
+Selfless: 76
+*********************************
+Physical Attractiveness: 57
+Mental Attractiveness: 74
+Social Attractiveness: 64
+*********************************
+Overall Popularity: 56
+Current Job: Computer Programmer
+Is Currently Dating: Victor
+*********************************
+Social Bond Strength 0 is: 55
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 53
+Social Bond Strength 3 is: 0
+Social Bond Strength 4 is: 54
+*********************************
+Object of Desire is: 4
+OOD value is: 122
+
+
+Master profile for: George
+*********************************
+
+Gender: 0
+Personality Points: 456
+Humor: 82
+Seriousness: 98
+Professionalism: 70
+Romantic/Escapist: 68
+Selfish: 94
+Selfless: 50
+*********************************
+Physical Attractiveness: 68
+Mental Attractiveness: 88
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 58
+Current Job: Data Entry Clerk
+Is Currently Dating: Sun
+*********************************
+Social Bond Strength 0 is: 62
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 54
+Social Bond Strength 3 is: 54
+Social Bond Strength 4 is: 0
+*********************************
+Object of Desire is: 1
+OOD value is: 119
+
+
+The friends decide to go out again. It will take place at: The Mall of Texas, featuring over 500 department stores
+
+
+
+Victor is talking to Jameka and George and asking if it would be OK to return a defective article of clothing right now
+
+
+
+
+Audrey is talking to Jameka and George about how busy the mall gets on weekends
+
+
+
+
+Sun is talking to George about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+Jameka is talking to Victor and George and discussing the amount of money someone can earn if he took all the pennies from the fountain every day
+
+
+
+
+George is talking to Audrey about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+Victor is talking to Audrey and George about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+Audrey is talking to George and discussing the amount of money someone can earn if he took all the pennies from the fountain every day
+
+
+
+
+Sun is talking to George and asking if it would be OK to return a defective article of clothing right now
+
+
+
+
+Jameka is talking to Victor and George about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+George is talking to Victor and Audrey and discussing the amount of money someone can earn if he took all the pennies from the fountain every day
+
+
+
+
+Victor is talking to Jameka and George and discussing the amount of money someone can earn if he took all the pennies from the fountain every day
+
+
+
+
+Audrey is talking to George about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+Sun is talking to George about the poor selection of glassware and fine china that the mall has to offer
+
+
+
+
+Jameka is talking to Victor and George and asking if it would be OK to return a defective article of clothing right now
+
+
+
+
+George is talking to Audrey about how busy the mall gets on weekends
+
+
+
+
+Victor is talking to Jameka and asking if it would be OK to return a defective article of clothing right now
+
+OOD was chosen: 10 times out of 16
+
+
+**********************************
+So what individual changes among our group of friends have occurred since the last outing???
+**********************************
+
+For Victor: Victor took a new job as a Database Administrator
+For Sun: Sun is overcoming past shyness and is starting to converse randomly to individuals in public.Social attractiveness has increased by 3 points
+
+For Sun: Sun is now writing some fairly complicated software agents that use FOL.Mental attractiveness has increased by 15 points
+
+For George: George does not read as much anymore and is starting to watch more TV.Mental attractiveness has decreased by 4 points
+
+
+Master profile for: Victor
+*********************************
+
+Gender: 0
+Personality Points: 386
+Humor: 50
+Seriousness: 96
+Professionalism: 85
+Romantic/Escapist: 96
+Selfish: 89
+Selfless: 58
+*********************************
+Physical Attractiveness: 52
+Mental Attractiveness: 97
+Social Attractiveness: 67
+*********************************
+Overall Popularity: 52
+Current Job: Database Administrator
+Is Currently Dating: Jameka
+*********************************
+Social Bond Strength 0 is: 0
+Social Bond Strength 1 is: 49
+Social Bond Strength 2 is: 42
+Social Bond Strength 3 is: 55
+Social Bond Strength 4 is: 62
+*********************************
+Object of Desire is: 1
+OOD value is: 93
+
+
+Master profile for: Audrey
+*********************************
+
+Gender: 1
+Personality Points: 445
+Humor: 78
+Seriousness: 69
+Professionalism: 76
+Romantic/Escapist: 86
+Selfish: 60
+Selfless: 85
+*********************************
+Physical Attractiveness: 87
+Mental Attractiveness: 97
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 64
+Current Job: Phone Operator
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 49
+Social Bond Strength 1 is: 0
+Social Bond Strength 2 is: 78
+Social Bond Strength 3 is: 65
+Social Bond Strength 4 is: 65
+*********************************
+Object of Desire is: 4
+OOD value is: 133
+
+
+Master profile for: Sun
+*********************************
+
+Gender: 1
+Personality Points: 378
+Humor: 69
+Seriousness: 63
+Professionalism: 61
+Romantic/Escapist: 64
+Selfish: 51
+Selfless: 71
+*********************************
+Physical Attractiveness: 95
+Mental Attractiveness: 110
+Social Attractiveness: 88
+*********************************
+Overall Popularity: 56
+Current Job: Computer Programmer
+Is Currently Dating: George
+*********************************
+Social Bond Strength 0 is: 42
+Social Bond Strength 1 is: 78
+Social Bond Strength 2 is: 0
+Social Bond Strength 3 is: 53
+Social Bond Strength 4 is: 54
+*********************************
+Object of Desire is: 0
+OOD value is: 74
+
+
+Master profile for: Jameka
+*********************************
+
+Gender: 1
+Personality Points: 407
+Humor: 91
+Seriousness: 77
+Professionalism: 50
+Romantic/Escapist: 92
+Selfish: 67
+Selfless: 76
+*********************************
+Physical Attractiveness: 57
+Mental Attractiveness: 74
+Social Attractiveness: 64
+*********************************
+Overall Popularity: 56
+Current Job: Computer Programmer
+Is Currently Dating: Victor
+*********************************
+Social Bond Strength 0 is: 55
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 53
+Social Bond Strength 3 is: 0
+Social Bond Strength 4 is: 54
+*********************************
+Object of Desire is: 4
+OOD value is: 122
+
+
+Master profile for: George
+*********************************
+
+Gender: 0
+Personality Points: 456
+Humor: 82
+Seriousness: 98
+Professionalism: 70
+Romantic/Escapist: 68
+Selfish: 94
+Selfless: 50
+*********************************
+Physical Attractiveness: 68
+Mental Attractiveness: 84
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 58
+Current Job: Data Entry Clerk
+Is Currently Dating: Sun
+*********************************
+Social Bond Strength 0 is: 62
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 54
+Social Bond Strength 3 is: 54
+Social Bond Strength 4 is: 0
+*********************************
+Object of Desire is: 1
+OOD value is: 119
+
+
+Victor OOD value for Audrey is: 89
+Victor OOD value for Sun is: 51
+Victor OOD value for Jameka is: 65
+Audrey OOD value for Victor is: 100
+Audrey OOD value for George is: 137
+Sun OOD value for Victor is: 61
+Sun OOD value for George is: 80
+Jameka OOD value for Victor is: 112
+Jameka OOD value for George is: 132
+George OOD value for Audrey is: 118
+George OOD value for Sun is: 82
+George OOD value for Jameka is: 67
+
+**********************************
+So have any relationships changed among our group of friends in between outings????
+**********************************
+
+Victor breaks up with Jameka!
+
+Audrey is attracted to George
+
+Sun is attracted to George
+
+Jameka is attracted to George
+
+George breaks up with Sun!
+
+Audrey and George seem right for each other. Will they initiate a relationship?
+
+Yes! Audrey and George are now officially a couple!
+
+The friends decide to go out again. It will take place at: KFC -- Kentucky Fried Chicken
+
+
+
+Victor is talking to Jameka and relating the scary and hilarious story of what actually happens while preparing food in the kitchen of a KFC
+
+
+
+
+Audrey is talking to George about why KFC mysteriously stopped serving Sweet and Sour Sauce with the chicken
+
+
+
+
+Sun is talking to Jameka and George about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Jameka is talking to Sun and George about not wanting to know the enormous fat content the food probably contains
+
+
+
+
+George is talking to Audrey about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Victor is talking to Jameka about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Audrey is talking to Jameka and George about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Sun is talking to Jameka and George about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Jameka is talking to Sun and George about why KFC mysteriously stopped serving Sweet and Sour Sauce with the chicken
+
+
+
+
+George is talking to Victor and Audrey about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Victor is talking to Jameka about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+
+
+
+Audrey is talking to Jameka and George about how great the fried chicken is here.
+
+
+
+
+Sun is talking to George about how great the fried chicken is here.
+
+
+
+
+Jameka is talking to George about how great the fried chicken is here.
+
+
+
+
+George is talking to Sun and Jameka about not wanting to know the enormous fat content the food probably contains
+
+
+
+
+Victor is talking to Jameka and George about being forced to pick up chicken from another KFC for ungrateful co-workers
+
+OOD was chosen: 21 times out of 32
+
+
+**********************************
+So what individual changes among our group of friends have occurred since the last outing???
+**********************************
+
+For Victor: Victor took a new job as a Chief Technology Officer(CTO)
+For Jameka: Jameka has written an expert system that is garnering attention in the industrial and academic community!Mental attractiveness has increased by 20 points
+
+For Jameka: Jameka has totally let herself go, she looks terrible these days.Her physical attractiveness has decreased by 20 points
+
+
+Master profile for: Victor
+*********************************
+
+Gender: 0
+Personality Points: 386
+Humor: 50
+Seriousness: 96
+Professionalism: 85
+Romantic/Escapist: 96
+Selfish: 89
+Selfless: 58
+*********************************
+Physical Attractiveness: 52
+Mental Attractiveness: 97
+Social Attractiveness: 67
+*********************************
+Overall Popularity: 54
+Current Job: Chief Technology Officer(CTO)
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 0
+Social Bond Strength 1 is: 56
+Social Bond Strength 2 is: 37
+Social Bond Strength 3 is: 58
+Social Bond Strength 4 is: 67
+*********************************
+Object of Desire is: 1
+OOD value is: 89
+
+
+Master profile for: Audrey
+*********************************
+
+Gender: 1
+Personality Points: 445
+Humor: 78
+Seriousness: 69
+Professionalism: 76
+Romantic/Escapist: 86
+Selfish: 60
+Selfless: 85
+*********************************
+Physical Attractiveness: 87
+Mental Attractiveness: 97
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 63
+Current Job: Phone Operator
+Is Currently Dating: George
+*********************************
+Social Bond Strength 0 is: 56
+Social Bond Strength 1 is: 0
+Social Bond Strength 2 is: 72
+Social Bond Strength 3 is: 61
+Social Bond Strength 4 is: 65
+*********************************
+Object of Desire is: 4
+OOD value is: 137
+
+
+Master profile for: Sun
+*********************************
+
+Gender: 1
+Personality Points: 378
+Humor: 69
+Seriousness: 63
+Professionalism: 61
+Romantic/Escapist: 64
+Selfish: 51
+Selfless: 71
+*********************************
+Physical Attractiveness: 95
+Mental Attractiveness: 110
+Social Attractiveness: 88
+*********************************
+Overall Popularity: 54
+Current Job: Computer Programmer
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 37
+Social Bond Strength 1 is: 72
+Social Bond Strength 2 is: 0
+Social Bond Strength 3 is: 52
+Social Bond Strength 4 is: 58
+*********************************
+Object of Desire is: 4
+OOD value is: 80
+
+
+Master profile for: Jameka
+*********************************
+
+Gender: 1
+Personality Points: 407
+Humor: 91
+Seriousness: 77
+Professionalism: 50
+Romantic/Escapist: 92
+Selfish: 67
+Selfless: 76
+*********************************
+Physical Attractiveness: 37
+Mental Attractiveness: 94
+Social Attractiveness: 64
+*********************************
+Overall Popularity: 57
+Current Job: Computer Programmer
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 58
+Social Bond Strength 1 is: 61
+Social Bond Strength 2 is: 52
+Social Bond Strength 3 is: 0
+Social Bond Strength 4 is: 60
+*********************************
+Object of Desire is: 4
+OOD value is: 132
+
+
+Master profile for: George
+*********************************
+
+Gender: 0
+Personality Points: 456
+Humor: 82
+Seriousness: 98
+Professionalism: 70
+Romantic/Escapist: 68
+Selfish: 94
+Selfless: 50
+*********************************
+Physical Attractiveness: 68
+Mental Attractiveness: 84
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 62
+Current Job: Data Entry Clerk
+Is Currently Dating: Audrey
+*********************************
+Social Bond Strength 0 is: 67
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 58
+Social Bond Strength 3 is: 60
+Social Bond Strength 4 is: 0
+*********************************
+Object of Desire is: 1
+OOD value is: 118
+
+
+Victor OOD value for Audrey is: 79
+Victor OOD value for Sun is: 61
+Victor OOD value for Jameka is: 87
+Audrey OOD value for Victor is: 91
+Audrey OOD value for George is: 136
+Sun OOD value for Victor is: 72
+Sun OOD value for George is: 89
+Jameka OOD value for Victor is: 95
+Jameka OOD value for George is: 106
+George OOD value for Audrey is: 118
+George OOD value for Sun is: 82
+George OOD value for Jameka is: 72
+
+**********************************
+So have any relationships changed among our group of friends in between outings????
+**********************************
+
+Victor is attracted to Jameka
+
+Audrey is attracted to George
+
+Sun is attracted to George
+
+Jameka is attracted to George
+
+George is attracted to Audrey
+
+
+The friends decide to go out again. It will take place at: Barnes and Noble Bookstore
+
+
+
+Victor is talking to Audrey about the complexity and ultimate reward of relationships
+
+
+
+
+Audrey is talking to Jameka and George and relating the plot of a popular and current book. And no, it is not a Harry Potter book :-)
+
+
+
+
+Sun is talking to George about annoying people at work
+
+
+
+
+Jameka is talking to George about the very eccentric intellectuals sitting behind them
+
+
+
+
+George is talking to Audrey and relating the plot of a popular and current book. And no, it is not a Harry Potter book :-)
+
+
+
+
+Victor is talking to Jameka about the superiority of Starbucks coffee
+
+
+
+
+Audrey is talking to Jameka and George and relating the plot of a popular and current book. And no, it is not a Harry Potter book :-)
+
+
+
+
+Sun is talking to Jameka and George about the very eccentric intellectuals sitting behind them
+
+
+
+
+Jameka is talking to Sun and George about the superiority of Starbucks coffee
+
+
+
+
+George is talking to Victor and Audrey about the complexity and ultimate reward of relationships
+
+
+
+
+Victor is talking to Jameka and relating the plot of a popular and current book. And no, it is not a Harry Potter book :-)
+
+
+
+
+Audrey is talking to Jameka and George about the superiority of Starbucks coffee
+
+
+
+
+Sun is talking to George about the complexity and ultimate reward of relationships
+
+
+
+
+Jameka is talking to George about the very eccentric intellectuals sitting behind them
+
+
+
+
+George is talking to Sun and Jameka about the very eccentric intellectuals sitting behind them
+
+
+
+
+Victor is talking to Jameka about the complexity and ultimate reward of relationships
+
+OOD was chosen: 35 times out of 48
+
+
+**********************************
+So what individual changes among our group of friends have occurred since the last outing???
+**********************************
+
+For Victor: Victor has stopped being a couch potato and is starting to read.Mental attractiveness has increased by 5 points
+
+For Sun: Sun got laid off from the job as a Computer Programmer, due to struggling corporate sales
+Sun was forced to get a job as a Tech Support Specialist
+
+
+Master profile for: Victor
+*********************************
+
+Gender: 0
+Personality Points: 386
+Humor: 50
+Seriousness: 96
+Professionalism: 85
+Romantic/Escapist: 96
+Selfish: 89
+Selfless: 58
+*********************************
+Physical Attractiveness: 52
+Mental Attractiveness: 102
+Social Attractiveness: 67
+*********************************
+Overall Popularity: 55
+Current Job: Chief Technology Officer(CTO)
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 0
+Social Bond Strength 1 is: 56
+Social Bond Strength 2 is: 37
+Social Bond Strength 3 is: 60
+Social Bond Strength 4 is: 67
+*********************************
+Object of Desire is: 3
+OOD value is: 87
+
+
+Master profile for: Audrey
+*********************************
+
+Gender: 1
+Personality Points: 445
+Humor: 78
+Seriousness: 69
+Professionalism: 76
+Romantic/Escapist: 86
+Selfish: 60
+Selfless: 85
+*********************************
+Physical Attractiveness: 87
+Mental Attractiveness: 97
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 63
+Current Job: Phone Operator
+Is Currently Dating: George
+*********************************
+Social Bond Strength 0 is: 56
+Social Bond Strength 1 is: 0
+Social Bond Strength 2 is: 72
+Social Bond Strength 3 is: 61
+Social Bond Strength 4 is: 65
+*********************************
+Object of Desire is: 4
+OOD value is: 136
+
+
+Master profile for: Sun
+*********************************
+
+Gender: 1
+Personality Points: 378
+Humor: 69
+Seriousness: 63
+Professionalism: 61
+Romantic/Escapist: 64
+Selfish: 51
+Selfless: 71
+*********************************
+Physical Attractiveness: 95
+Mental Attractiveness: 110
+Social Attractiveness: 88
+*********************************
+Overall Popularity: 54
+Current Job: Tech Support Specialist
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 37
+Social Bond Strength 1 is: 72
+Social Bond Strength 2 is: 0
+Social Bond Strength 3 is: 52
+Social Bond Strength 4 is: 58
+*********************************
+Object of Desire is: 4
+OOD value is: 89
+
+
+Master profile for: Jameka
+*********************************
+
+Gender: 1
+Personality Points: 407
+Humor: 91
+Seriousness: 77
+Professionalism: 50
+Romantic/Escapist: 92
+Selfish: 67
+Selfless: 76
+*********************************
+Physical Attractiveness: 37
+Mental Attractiveness: 94
+Social Attractiveness: 64
+*********************************
+Overall Popularity: 57
+Current Job: Computer Programmer
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 60
+Social Bond Strength 1 is: 61
+Social Bond Strength 2 is: 52
+Social Bond Strength 3 is: 0
+Social Bond Strength 4 is: 55
+*********************************
+Object of Desire is: 4
+OOD value is: 106
+
+
+Master profile for: George
+*********************************
+
+Gender: 0
+Personality Points: 456
+Humor: 82
+Seriousness: 98
+Professionalism: 70
+Romantic/Escapist: 68
+Selfish: 94
+Selfless: 50
+*********************************
+Physical Attractiveness: 68
+Mental Attractiveness: 84
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 61
+Current Job: Data Entry Clerk
+Is Currently Dating: Audrey
+*********************************
+Social Bond Strength 0 is: 67
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 58
+Social Bond Strength 3 is: 55
+Social Bond Strength 4 is: 0
+*********************************
+Object of Desire is: 1
+OOD value is: 118
+
+
+Victor OOD value for Audrey is: 78
+Victor OOD value for Sun is: 53
+Victor OOD value for Jameka is: 85
+Audrey OOD value for Victor is: 89
+Audrey OOD value for George is: 136
+Sun OOD value for Victor is: 62
+Sun OOD value for George is: 99
+Jameka OOD value for Victor is: 93
+Jameka OOD value for George is: 106
+George OOD value for Audrey is: 118
+George OOD value for Sun is: 93
+George OOD value for Jameka is: 71
+
+**********************************
+So have any relationships changed among our group of friends in between outings????
+**********************************
+
+Victor is attracted to Jameka
+
+Audrey is attracted to George
+
+Sun is attracted to George
+
+Jameka is attracted to George
+
+George is attracted to Audrey
+
+
+The friends decide to go out again. It will take place at: The Olive Garden, Italian Restaurant
+
+
+
+Victor is talking to Jameka about the complexity and ultimate pointlessness of relationships
+
+
+
+
+Audrey is talking to Jameka and George about the exquisite lasagna that this restaurant serves
+
+
+
+
+Sun is talking to George about who will have dessert and who will not.
+
+
+
+
+Jameka is talking to Sun and George about the exquisite lasagna that this restaurant serves
+
+
+
+
+George is talking to Victor and Audrey about the complexity and ultimate pointlessness of relationships
+
+
+
+
+Victor is talking to Jameka about the complexity and ultimate pointlessness of relationships
+
+
+
+
+Audrey is talking to George about the exquisite lasagna that this restaurant serves
+
+
+
+
+Sun is talking to Jameka and George about who will have dessert and who will not.
+
+
+
+
+Jameka is talking to Sun and George about annoying people at work
+
+
+
+
+George is talking to Victor and Audrey about the exquisite lasagna that this restaurant serves
+
+
+
+
+Victor is talking to Jameka and relating the panic of getting hopelessly lost in Venice.
+
+
+
+
+Audrey is talking to Jameka and George about annoying people at work
+
+
+
+
+Sun is talking to George about the complexity and ultimate pointlessness of relationships
+
+
+
+
+Jameka is talking to George about the complexity and ultimate pointlessness of relationships
+
+
+
+
+George is talking to Sun about the complexity and ultimate pointlessness of relationships
+
+
+
+
+Victor is talking to Audrey and George about the exquisite lasagna that this restaurant serves
+
+OOD was chosen: 49 times out of 64
+
+
+**********************************
+So what individual changes among our group of friends have occurred since the last outing???
+**********************************
+
+For Victor: Victor Never gets out of the house at all and has become the recluse of the neighborhood. Social attractiveness has decreased by 17 points
+
+For Victor: Victor is not exercising on the treadmill every day like he used to.His physical attractiveness has decreased by 2 points
+
+For Sun: Sun has written an expert system that is garnering attention in the industrial and academic community!Mental attractiveness has increased by 16 points
+
+For Jameka: Jameka has started to dress more stylishly and now sports an attractive new hairstyle.Her physical attractiveness has increased by 1 points
+
+
+Master profile for: Victor
+*********************************
+
+Gender: 0
+Personality Points: 386
+Humor: 50
+Seriousness: 96
+Professionalism: 85
+Romantic/Escapist: 96
+Selfish: 89
+Selfless: 58
+*********************************
+Physical Attractiveness: 50
+Mental Attractiveness: 102
+Social Attractiveness: 50
+*********************************
+Overall Popularity: 54
+Current Job: Chief Technology Officer(CTO)
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 0
+Social Bond Strength 1 is: 55
+Social Bond Strength 2 is: 38
+Social Bond Strength 3 is: 59
+Social Bond Strength 4 is: 66
+*********************************
+Object of Desire is: 3
+OOD value is: 85
+
+
+Master profile for: Audrey
+*********************************
+
+Gender: 1
+Personality Points: 445
+Humor: 78
+Seriousness: 69
+Professionalism: 76
+Romantic/Escapist: 86
+Selfish: 60
+Selfless: 85
+*********************************
+Physical Attractiveness: 87
+Mental Attractiveness: 97
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 63
+Current Job: Phone Operator
+Is Currently Dating: George
+*********************************
+Social Bond Strength 0 is: 55
+Social Bond Strength 1 is: 0
+Social Bond Strength 2 is: 72
+Social Bond Strength 3 is: 61
+Social Bond Strength 4 is: 65
+*********************************
+Object of Desire is: 4
+OOD value is: 136
+
+
+Master profile for: Sun
+*********************************
+
+Gender: 1
+Personality Points: 378
+Humor: 69
+Seriousness: 63
+Professionalism: 61
+Romantic/Escapist: 64
+Selfish: 51
+Selfless: 71
+*********************************
+Physical Attractiveness: 95
+Mental Attractiveness: 126
+Social Attractiveness: 88
+*********************************
+Overall Popularity: 55
+Current Job: Tech Support Specialist
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 38
+Social Bond Strength 1 is: 72
+Social Bond Strength 2 is: 0
+Social Bond Strength 3 is: 52
+Social Bond Strength 4 is: 58
+*********************************
+Object of Desire is: 4
+OOD value is: 99
+
+
+Master profile for: Jameka
+*********************************
+
+Gender: 1
+Personality Points: 407
+Humor: 91
+Seriousness: 77
+Professionalism: 50
+Romantic/Escapist: 92
+Selfish: 67
+Selfless: 76
+*********************************
+Physical Attractiveness: 38
+Mental Attractiveness: 94
+Social Attractiveness: 64
+*********************************
+Overall Popularity: 56
+Current Job: Computer Programmer
+Is Currently Dating: null
+*********************************
+Social Bond Strength 0 is: 59
+Social Bond Strength 1 is: 61
+Social Bond Strength 2 is: 52
+Social Bond Strength 3 is: 0
+Social Bond Strength 4 is: 55
+*********************************
+Object of Desire is: 4
+OOD value is: 106
+
+
+Master profile for: George
+*********************************
+
+Gender: 0
+Personality Points: 456
+Humor: 82
+Seriousness: 98
+Professionalism: 70
+Romantic/Escapist: 68
+Selfish: 94
+Selfless: 50
+*********************************
+Physical Attractiveness: 68
+Mental Attractiveness: 84
+Social Attractiveness: 97
+*********************************
+Overall Popularity: 61
+Current Job: Data Entry Clerk
+Is Currently Dating: Audrey
+*********************************
+Social Bond Strength 0 is: 66
+Social Bond Strength 1 is: 65
+Social Bond Strength 2 is: 58
+Social Bond Strength 3 is: 55
+Social Bond Strength 4 is: 0
+*********************************
+Object of Desire is: 1
+OOD value is: 118
+
+
+Victor OOD value for Audrey is: 71
+Victor OOD value for Sun is: 38
+Victor OOD value for Jameka is: 82
+Audrey OOD value for Victor is: 79
+Audrey OOD value for George is: 134
+Sun OOD value for Victor is: 48
+Sun OOD value for George is: 94
+Jameka OOD value for Victor is: 86
+Jameka OOD value for George is: 105
+George OOD value for Audrey is: 116
+George OOD value for Sun is: 84
+George OOD value for Jameka is: 71
+
+**********************************
+So have any relationships changed among our group of friends in between outings????
+**********************************
+
+Victor is attracted to Jameka
+
+Audrey is attracted to George
+
+Sun is attracted to George
+
+Jameka is attracted to George
+
+George is attracted to Audrey
+
+
+The friends decide to go out again. It will take place at: Barnes and Noble Bookstore
+Game over man!

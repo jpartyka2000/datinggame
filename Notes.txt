@@ -1,0 +1,89 @@
+There are 5 players, they are a group of friends that goes out every 2 weeks. There must be at least 1 guy or 1 girl in the group of 5. Each one has the following:
+
+(1: Physical Attraction
+(2: Mental Attraction
+(3: Monetary Value
+(4: Relationship Status
+(5: Job Status
+(6: Recent Social Interactions (between all players (bond strength between all others), which on the whole contribute to a quantity called “social attractiveness”, or "social charm")
+
+
+
+OK, figuring out the branching factor and looking ahead:
+
+So for a group of 4, the number of possible interactions per move is 6. This is akin to a dice roll, except that more complicated probabilistic calculations will be involved. This essentially is a chance move (although somewhat influenced) based upon the parameters of the outing. This will largely be determined by the random flow of conversation, although each individual will exert some influence in deciding who he/she wants to talk to.
+
+After this, the move is made. (The move is the conversation added by a player to his target audience). The move should be in the best interest of the player...but what exactly is the best interest of the player? And how is it represented?
+
+At this point, it has already been determined whether the player is going to talk to the target audience of the same gender.
+
+The best interest of the player is performing an action that is optimally received by the target audience. Why? Because (a: if a player is of the opposite gender, then this increases their bond value (b: even if a player is not of the opposite gender, then there is an assumption that the player does not want to act negatively towards another. They seek to maximize their social charm value. What is social charm?
+
+It is the conglomeration of individual social bond strengths with others. If person A talks to persons B and C, then they bond strength between A, B and A,C will be directly affected. Also, others who have strong bonds with B, C will have their social bond with A increased. However, if others' bond with B and/or C are not high (below some threshold value), then their bond for A might actually weaken proportionately (so if D really dislikes A, then if A has a good time with B and C, then D-B and D-C bond strengths are likely to decrease. However, this might not affect bond strengths between C-D and B-D.
+
+So what is the goal of the player? It's to get the girl/guy, if single. If in a couple, it's too get a better girl/guy, unless they have the best girl/guy for them, in which case, the goal is to keep the girl/guy. The person they are with is not necessarily the best person for them.
+
+same sex interactions only occur if they must, on a secondary basis. And then, bond strength will attempt to be maximized.
+
+So the utility value for each node should be the max bond strength for the object of desire. So if the player CAN talk to OOD directly, then this is clearly the best move. However, if they can't, then the next best move is to talk to the OOD as part of a group. (In group interaction, the bond strength points will
+be distributed evenly among the number of members in the target audience). So talking to OOD as part of a group of 2 is preferred over OOD in a group of 3, etc....If it is not possible to talk to the OOD at all, then all that person can do is talk to those that will seek to optimize OOD bond strength transitively.
+
+So what exactly is the move? It should be any number of a series of actions. (funny story, serious conversation
+I need to correlate these possible moves with a series of personality traits possessed by each person
+
+These personality trait values are as follows: (there should be 6, and 
+
+Humor - how much they appeal to humor (funny story, appeals to other who like humor, does not appeal to those who are serious, everyone else is affected
+the same way by humor. Those that are both funny and physically attractive have a strong bond.)
+
+Seriousness - how much they appeal to serious discussions (serious discussion, not necessarily grave or solemn, appeals to other serious people the 
+most, appeals to humorous people the least, everyone else is neutral. 2 people that are both serious and intellectual have a strong bond)
+
+Professionalism - how much they identify themselves with their job (job story or job situation, concerning people on the job, those that are kind, and those that are annoying) -- appeals only to those who are very professionalist, does not appeal to those who are romantic/escapist. Those that are both professional and have the same job have a strong bond.)
+
+Romantic/Escapist - how romantic/potentially philandering(story about relationships; those with this quality might have the special property of chasing after anyone, whether they are with the best person or not -- appeals to other romantics and escapists, and least to professionals. This, and the aforementioned
+quality.)
+
+Selfish/self-absorbed - talks about himself/herself (this does not appeal to anybody, including other selfish people. Nobody likes this quality in abundance, selfless people never like it.)
+
+Selfless/moral/religious - focuses conversation on others primarily (through asking questions of others, etc....it appeals to everybody over time, selfish people like it immediately (because it allows them to talk about themselves freely)
+
+
+
+I go down as far as possible (via testing) for each move (maybe 2-3 ply), so the game might be slow, but it will always work.
+
+how should I represent chance nodes?? Remember that there is only a 1 in 6 chance of ever talking to any given set of individuals. So maybe just multiply each utility value by .6? Yes. Do not represent chance nodes as a separate object, sincce they can't hold any other properties anyway.
+
+What is the utility value for a terminal node? It will be an array of 5 values....each value is an integer whose value corresponds to (for now) utlility for the player who initiates the contact towards the OOD. It does not take into account the OOD's feelings or emotions. Personality traits affect the decision of what move to make after chance node dictates who to talk to. These same traits could affect utility value as well...Let's simulate.
+
+
+OK, so I have 4 players. Each one tries to maximize his/her utility value. 
+For n players, I need n maximizeValue() methods. So if each person object had a maximizeValue method, it would call the next method how?
+
+It would 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+So what determines bond strength between individuals A and B.
+(a: Recent social interactions, and the success of these actions.
+(b: 
+
+
+
+
+
+Each person makes at least one move per outing, maybe more if I can manage it.
+
